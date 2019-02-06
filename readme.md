@@ -22,7 +22,6 @@ Team ODD - IDEA (O.I)
 - 최종 소스코드(완성본)\서버\rtcmulticonnection-v3 에서 서버를 구동 합니다.
 - sudo node server.js
 - sudo node multiPlayServer.js
-- 실제 동작 URL : https://www.oddidea.xyz/
 
 # Demo Video
 - http://mikabin.tistory.com/3
